@@ -1,0 +1,5 @@
+pandas==2025.2
+numpy==1.26.4
+scikit-learn==3.6.0
+plotly==6.0.1
+seaborn==0.13.2
