@@ -12,4 +12,7 @@ scikit-learn
 plotly
 seaborn
 
+Project Structure:
+s_crop recommendation.ipynb: Recommendation model 
+requirements: List of Python package dependencies
 
